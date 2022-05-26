@@ -2,7 +2,7 @@
 - 👀 I’m interested in developing 👨‍💻
 - 🌱 I’m currently learning C# and Python
 - 💞️ I’m looking to collaborate on projects
-- 📫 How to reach me By E-mail
+- 📫 keep in touch with erfanparsaep@gmail.com
 
 <!---
 ErfanMelon/ErfanMelon is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
