@@ -95,7 +95,7 @@
 
 <br>
 
-## Top Languages: <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Prgif?raw=true" width="50px" height ="50px" />
+## Top Languages: <img src = "https:///7oSkaaa/7oSkaaa/blob/main/Images/Prgif?raw=true" width="50px" height ="50px" />
 <p><img align="center"
     src="https://github-readme-stats.vercel.app/api/top-langs?username=ErfanMelon&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact"
     alt="ErfanMelon" 
@@ -116,7 +116,7 @@
       
 
         
-   ## Visitor Count <img src="https://media4.giphy.com/media/dMLmQfCO7lCA2gX3tw/giphy.gif?cid=ecf05e47ak6mwfu812269zzr8ydv529109qzpb8rszwnja9e&rid=giphy.gif&ct=s" width=10%>
+   ## Visitor Count <img a4.giphy.com/media/dMLmQfCO7lCA2gX3tw/giphy.gif?cid=ecf05e47ak6mwfu812269zzr8ydv529109qzpb8rszwnja9e&rid=giphy.gif&ct=s" width=10%>
    
    ![Visitor Count](https://profile-counter.glitch.me/{ErfanMelon}/count.svg)
         
