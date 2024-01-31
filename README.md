@@ -1,133 +1,57 @@
-<h1 align="center">Hello Guys 👋 I'm Erfan </h1>
-<h3 align="center">Software Engineer 👩‍💻 </h3>
+<img src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" width="100%" />
+<h1 align="center">Hello Guys 👋 I'm Erfan</h1>
+<h3 align="center">Software Engineer 👩‍💻</h3>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ErfanMelon&label=Profile%20views&color=0e75b6&style=flat" alt="ErfanMelon" /> </p>
 
-<br>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ErfanMelon&label=Profile%20views&color=0e75b6&style=flat"
-    alt="ErfanMelon" /> &nbsp;&nbsp;     
-   <a href="https://github.com/ErfanMelon?tab=followers"><img src="https://img.shields.io/github/followers/ErfanMelon?label=Followers&style=social" alt="GitHub Followers"></a>
-</p>
-  
-<br>
-<p><img align="right" src="https://github.com/ErfanMelon/ErfanMelon/blob/main/animation_500_kxa883sd.gif" alt="ErfanMelon" /> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ErfanMelon&theme=onedark" alt="ErfanMelon" /></a> </p>
 
+- 🌱 I’m currently learning **Web Development**
+- 💬 Ask me about **C# and Sql**
+- 📫 How to reach me **erfanmelon@yahoo.com**
+- ⚡ Fun fact **5!=120**
 
-
-
-- 🌱 I’m Learning Web Development And Other Programming Languages , Currently Working On Web Projects And Developments.
-
-- 📫 How To Reach Me **erfanmelon@yahoo.com**
-
-- ⚡ Fun Fact : 5!=120 
-
-- ⭕  Currently Working With Fanava Data Processing.
-<br>
-
-<h3 align="left">Contact With Me: <img  src="https://raw.githuusercontent.com/0xAbdulKhalid/0xAbdulKhalid/main/assets/mdImages/handshake.gif" width="90px" height = "50px"/></h3> 
+<div> <a href="https://twitter.com/ErfanMelon" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/erfan-memarpoor-06289a293" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+<a href="https://github.com/ErfanMelon" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
+<a href="https://instagram.com/ErfanMelon" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+<a href = "mailto:erfanmelon@yahoo.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+</div><h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://youtube.com/erfanmelon" target="blank"><img align="center"
-      src="https://www.svgrepo.com/show/95009/youtube.svg"
-      alt="ErfanMelon" height="50" width="40" /></a>
-  <a href="https://fb.com/" target="blank"><img align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg"
-      alt="ErfanMelon" height="30" width="40" /></a>
-  <a href="https://instagram.com/erfan_melon" target="blank"><img align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
-      alt="ErfanMelon" height="30" width="40" /></a>
- <a href="https://twitter.com/ErfanMelonYT" target="blank"><img align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"
-      alt="ErfanMelon" height="30" width="40" /></a> 
-    <a href="https://discord.gg/EfcmrxWB" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="ErfanMelon" height="30" width="40" /></a>
-    <a href="@erfanmelon" target="_blank">
-   <img src="https://www.svgrepo.com/show/65315/telegram.svg"  width="40" height="30" alt="Telegram"/>
-   </a>
+<a href="https://twitter.com/ErfanMelon" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/twitter.svg" alt="ErfanMelon" height="30" width="40" /></a><a href="https://linkedin.com/in/erfan-memarpoor-06289a293" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/linked-in-alt.svg" alt="erfan-memarpoor-06289a293" height="30" width="40" /></a><a href="https://discord.gg/ErfanMelon" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/discord.svg" alt="ErfanMelon" height="30" width="40" /></a><a href="https://instagram.com/ErfanMelon" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/instagram.svg" alt="ErfanMelon" height="30" width="40" /></a></p>
 
+<h3 align="left">Languages and Tools:</h3>
+<p align="left">
+<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/csharp-original.svg" alt="Csharp" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/python-original.svg" alt="Python" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Frontend/html5-original-wordmark.svg" alt="HTML" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Frontend/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Frontend/css3-original-wordmark.svg" alt="Css" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Database/microsoft-sql-server-logo.svg" alt="Microsoft Sql Server" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Devops/docker-original-wordmark.svg" alt="Docker" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Framework/dot-net-original-wordmark.svg" alt="Dot Net" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Software/getpostman-icon.svg" alt="Postman" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Software/photoshop-line.svg" alt="Photoshop" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Software/adobe_illustrator-icon%20(1).svg" alt="Adobe Illustrator" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Other/git-scm-icon.svg" alt="Git" width="40" height="40"/>
 </p>
 
-<br>
+<h3 align="left">Stars</h3>
+<img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ErfanMelon&layout=compact&theme=dark" alt=ErfanMelon />
 
-<h3 align="left"><h3> Languages And Tools: <img  src="tps:/cam.githuusercontent.om/beb64ff21c8a4175705bea1c9249e82a41ab375db4f75/68747470733a2f2f6d6564696179454f684243623765312f67697068792e6769663f6369643d656366303565343761306e336769316266716e74716d6f62386739616964316f796a327772336473336d67373030626c267269643d67697068792e67696" width="50px" height ="50px"/></h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"
-      alt="bootstrap" width="40" height="40" /> </a>
- <a href="https://www.cprogramming.com/" target="_blank"
-    rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"
-      alt="c" width="40" height="40" /> </a>
- <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"
-      alt="cplusplus" width="40" height="40" /> </a>
- <a href="https://www.w3schools.com/css/" target="_blank"
-    rel="noreferrer"> <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3"
-      width="40" height="40" /> </a>
- <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
-      alt="html5" width="40" height="40" /> </a>
- <a href=> <img src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/javascript.svg' width ='32px' > 
- <a href="https://www.php.net" target="_blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40" /> </a> </a> 
-<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python"
-      width="40" height="40" /> </a>
- <a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank"><img src="images/adobe-photoshop-logo.svg" alt="Abobe Photoshop Logo" width="40" height="40"></a>
- <a href="https://www.adobe.com/uk/products/illustrator.html" target="_blank"><img src="images/adobe-illustrator-logo.svg" alt="Adobe Illustrator Logo" width="40" height="40"></a>
- <a href="https://code.visualstudio.com/" target="_blank"><img src="images/visualstudio-code-logo.svg" alt="Visual Studio Code 2 Logo" width="40" height="40"></a>
- <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40"
-      height="40" /> </a>
- <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
-      alt="react" width="40" height="40" /> </a> 
-    <a href="https://unity.com/" target="_blank">
-        <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40" />
-    </a>
-    <img src="https://www.svgrepo.com/show/312259/github.svg" width="40" height="40">
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"
-      alt="mysql" width="40" height="40" /> </a> </a>
- <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a>
- <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"
-      alt="nodejs" width="40" height="40" /> </a> 
-       <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg"
-      alt="android" width="40" height="40" /> </a> 
- </p>
+<p>&nbsp;<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=ErfanMelon&show_icons=true&locale=en&theme=dark" alt="ErfanMelon" /></p>
 
-<br>
+<p><img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=ErfanMelon&theme=dark" alt="ErfanMelon" /></p>
 
-## Top Languages: <img src = "https:///7oSkaaa/7oSkaaa/blob/main/Images/Prgif?raw=true" width="50px" height ="50px" />
-<p><img align="center"
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=ErfanMelon&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact"
-    alt="ErfanMelon" 
-    bg_color=#808080/></p>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h3 align="center">Statistics</h3>
+<div align="center">
+<a href="https://github.com/ErfanMelon">
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ErfanMelon&theme=2077" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ErfanMelon&theme=2077" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ErfanMelon&theme=2077" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ErfanMelon&theme=2077" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ErfanMelon&theme=2077" height="180em" />
+</div>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h2 align="left">⚡Activity Graph:</h2>
+<img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=ErfanMelon&theme=github"/>
 
-<br>
-
-## ErfanMelon's GitHub Stats: <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzFhYzJkMmQ2MWQ3ZGY3MDhjZTE3MDI2Mzk3NzE1OWQyZTRlMmYwMCZjdD1z/iY8CRBdQXODJSCERIr/giphy.gif" width="50px" height ="50px"/>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ErfanMelon&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&repo=RiotDNS"
-    alt="ErfanMelon" /></p>
-
-<br>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ErfanMelon&theme=dark&background=0d1117&date_format=M%20j%5B%2C%20Y%5D" alt="ErfanMelon" /></p>
-      
-<p align="left"> <a href="https://twitter.com/" target="blank"><img
-      src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-      
-
-        
-   ## Visitor Count <img a4.giphy.com/media/dMLmQfCO7lCA2gX3tw/giphy.gif?cid=ecf05e47ak6mwfu812269zzr8ydv529109qzpb8rszwnja9e&rid=giphy.gif&ct=s" width=10%>
-   
-   ![Visitor Count](https://profile-counter.glitch.me/{ErfanMelon}/count.svg)
-        
-
-
-
-  <b>❤️ Thank You For Visiting My GitHub Profile ❤️</b>
-
-      
-
-<b>[ErfanMelon](https://github.com/ErfanMelon)</b>
-
-<p align="right"><a href="#top"><img src="https://img.shields.io/static/v1?label&message=back+to+top&color=green=flat&logo" alt="back to top" /></a></p>
-<div align="center" ><img alt="" width="100%" src="https://github.com/ErfanMelon/ErfanMelon/blob/main/assets/footer.png"></div>
+<img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
